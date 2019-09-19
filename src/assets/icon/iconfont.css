@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1562900100687'); /* IE9 */
+  src: url('iconfont.eot?t=1562900100687#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO8AAsAAAAAB7AAAANuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDGIJvATYCJAMMCwgABCAFhG0HNRu0BsgeA+7GCU5MTEZlXhOKh+/3a+f+91a1QRKNdJ9OYkgbSSQiaStioXtJlEwooqHy83nWC6pk4HSdduGR/dOmSj3WdUEeCV/bAAEWv32ey+ndVUJjf8tyG2vRnn7UCzAOKKC9bSyRuEAC8oaxC1ricQJ1sxbBdlOzi0EqM8cF4ohXNYA045AbakNVKFcszRA3IFItxvCrAK6D78c3BCYFhVICc+reYUozxL9Ff2CIXkevao8A5XQ+sFUkrAGZmFQGDhBReg2hrhrI5tKyLBRTxRwOAoVmKm/0j1cQZTCrm2AJ2goXpXSkBO+MHLKRRpeRcQrgDrCGj0yiNX/eQnp8F0b07Z7YCfh0h4Va/UC57n7otrPzdtydumKN1567XtT4jvJH76TprfdK6IkHC/c/mbHudvmSI7Oo+/d9KIKeYJjtD5JWb958mFm+3Xvpzmn37notadtlYqf3hocdvcXyJenC8WVYH8Osdne5f+j45fv3KQqmO8Z9Spf1MWXLF+0CjcuSg/Uu7i4nHcNU74xfjmPPLnxFtX989aM0mLmkkcrn3ctS5xyq7PBGLmU5A75l+MNpaczCuIDMGfJtCZ9Cq+sflhEdYUH5vfGkIt+zKmj24f9PpKsVAXfP3CgQ5SltSmGR+xdpo7PC1w8i8swM714+e2aZi1pCSmTT5Ytd0g4fZZKcU8iFzWYak7e+eTPKjLqXtsrB6bg5Nu1wB9QD/D+dJJIASLf4lx/2G3+X3o7VuUb/k9IkwGsuMxiE/5+hu6l6O8Hg9yg7NmTNDBuzonAURiiZ3KqvAEbq+Cn10Pd8uGnUuZpQNUpQqJhBUjVHZtYaShrWUVa1gbpVaasbBswIkWXAiiGA0LUfhbYXJF3XyMx6hpKxbyjrRqBuPzy3bFiIp5LMqMGKmtnGNpZvEgyc7bZSYW0hUtl0Dea0OhCUIrOFj7EBvv75XBoyIPMUMyx2VaDVyrGcWdCzqeA0pNMJrNEsaFCT1VdttRoj/fy4qhf5Ngl6oOwwQxpYIc1YjdqweE0EBpzX2ooqfL4QomKj08DcQKvKlkLMLPjOWQF8+Xcg0wyGTrRbucTCTiWQlRWHxTET6LFSgQ/RWWkBy1g9SANpYuVLPSBpFMkPNeO6GnyXN+nfbxvUmXulwDECIyGdNBhEahvP2QAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1562900100687') format('woff'),
+  url('iconfont.ttf?t=1562900100687') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1562900100687#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zan:before {
+  content: "\e63c";
+}
+
+.icon-huifu:before {
+  content: "\e717";
+}
+
